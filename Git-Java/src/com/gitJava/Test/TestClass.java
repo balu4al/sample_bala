@@ -10,12 +10,7 @@ public class TestClass {
 		
 		int i =10;
 				
-		while(i<10){
-			System.out.println(i);
-			//is is git committing
-			int qw = 34;
-		}
-	//hai jio
+		
 	}
 
 }
