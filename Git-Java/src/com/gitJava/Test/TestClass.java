@@ -12,6 +12,7 @@ public class TestClass {
 		
 		//project 2 git tested
 		System.out.println("proj-2");
+		//merge sample
 				
 		
 	}
