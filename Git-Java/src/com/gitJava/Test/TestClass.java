@@ -9,6 +9,7 @@ public class TestClass {
 		System.out.println("Git");
 		
 		int i =10;
+		int v =23;
 				
 		
 	}
